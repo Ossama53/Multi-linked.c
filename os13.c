@@ -208,7 +208,7 @@ int main()
     unfollow(6, 5);
     unfollow(5, 7);
 
-    printf("\nafter\n");
+    printf("after\n");
     print_allu();
 
     return 0;
